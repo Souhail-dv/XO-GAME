@@ -16,7 +16,7 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 - Reset button to restart the game
 
 ## Demo
-Experience the live demo of the game: [XO-GAME Demo](#) *(https://souhail-dv.github.io/XO-GAME/)*
+Experience the live demo of the XO GAME : [XO GAME Demo](https://souhail-dv.github.io/XO-GAME/)
 
 ## Installation
 To run the game on your local machine, follow these steps:
